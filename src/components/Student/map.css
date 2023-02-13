@@ -1,0 +1,116 @@
+.map-container {
+    padding: 50px;
+}
+
+.map-container h2 {
+    margin-bottom: 20px;
+}
+
+.map-container .span-group {
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 20px;
+}
+
+.map-container .span-group div {
+    display: flex;
+    align-items: center;
+}
+
+.map-container .span-group div .circle {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+.red-bg {
+    background-color: red;
+}
+
+.green-bg {
+    background-color: rgb(88, 212, 88);
+}
+
+.orange-bg {
+    background-color: orange;
+}
+
+#red-bg {
+    background-color: red;
+}
+
+#green-bg {
+    background-color: rgb(88, 212, 88);
+}
+
+#orange-bg {
+    background-color: orange;
+}
+
+
+
+.map-ctn {
+    display: flex;
+    justify-content: center;
+}
+
+.map-img {
+    border-radius: 20px;
+    width: 700px;
+    height: 500px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.map {
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    flex-direction: column;
+}
+
+.rounds {
+    background-color: rgb(88, 212, 88);
+    width: 20px;
+    height: 20px;
+    color: white;
+    font-weight: 500;
+    padding: 10px 15px 10px;
+    border-radius: 10px;
+    position: relative;
+}
+
+
+.round1 {
+    top: -170px;
+    left: 540px;
+}
+
+.round2 {
+    top: -80px;
+    left: 420px;
+}
+
+.round3 {
+    top: -170px;
+    left: 430px;
+}
+
+
+.round4 {
+    top: -140px;
+    left: 300px;
+}
+
+
+.round5 {
+    top: -360px;
+    left: 250px;
+}
+
+
+.round6 {
+    top: -310px;
+    left: 310px;
+}
